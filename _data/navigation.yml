@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Projects"
-    url: /Projects/
+    url: https://cheonu.github.io/Projects/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
