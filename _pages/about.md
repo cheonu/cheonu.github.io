@@ -2,7 +2,7 @@
 title: "About Me"
 permalink: /about/
 header:
-  image: "/images/code3.jpg"
+  image: "/images/Toronto.jpg"
 ---
 
 **Languages**: Python, HTML, CSS  
