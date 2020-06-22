@@ -1,0 +1,12 @@
+---
+title: "Project: FLASK_LAMBDA-REST-API"
+date: 2020-06-21
+tags: [aws]
+header:
+  image: "/images/Toronto.jpg"
+excerpt: "FLASK_LAMBDA, REST-API"
+---
+
+[REST-API created using FLASK and python](https://github.com/cheonu/REST-APIv1/tree/REST-API)
+
+Creating a REST-API using FLASK and python. Resources utilized include Flask, SAM Build and SAM Deploy, Python and Lamda
